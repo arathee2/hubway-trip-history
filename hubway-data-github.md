@@ -3,9 +3,6 @@ The Hubway trip history data
 Amandeep Rathee
 October 10, 2016
 
-The Hubway trip history data
-============================
-
 Every time a Hubway user checks a bike out from a station, the system records basic information about the trip. Those anonymous data points have been exported into the spreadsheet. Please note, all private data including member names have been removed from these files.
 
 Structure of the data
