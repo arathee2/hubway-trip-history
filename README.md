@@ -5,7 +5,7 @@ The data-set can be downloaded from this page.
 
 http://hubwaydatachallenge.org/trip-history-data/
 
-This is a small pet project. I have provided a two markdown files which includes the analysis in R.
+This is a small data analysis pet project in R. I have provided a two markdown files which includes the analysis.
 
 There are two markdown files in the repo:
 
